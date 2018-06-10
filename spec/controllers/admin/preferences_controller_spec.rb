@@ -6,3 +6,4 @@ RSpec.describe Admin::PreferencesController, type: :controller do
     expect(response).to be_ok
   end
 end
+mmm
